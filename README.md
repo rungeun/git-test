@@ -1,6 +1,8 @@
 # git-test
 git test.
 
+# git 명령어 정리
+![Git Flow Diagram](./git.jpg)
 
 # 이전에 정리해 두었던 내용
 ~/Desktop/Development/
